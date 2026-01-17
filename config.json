@@ -1,0 +1,13 @@
+{
+  "project_title": "Donation Drive Tracker",
+  "goal": "Analyze donation momentum and channel coverage.",
+  "entity_name": "donation",
+  "amount_label": "amount",
+  "score_label": "momentum_score",
+  "categories": [
+    "online",
+    "event",
+    "mail",
+    "partner"
+  ]
+}
